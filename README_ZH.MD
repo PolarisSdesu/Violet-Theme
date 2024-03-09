@@ -1,4 +1,4 @@
-# Violet: A Ableton Live Theme
+# Violet: An Ableton Live Theme
 
 ![violet](./screenshot.png)
 
