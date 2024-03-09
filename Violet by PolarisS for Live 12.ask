@@ -112,7 +112,7 @@
 		<BrowserSampleWaveform Value="#554BB3" />
 		<AutomationDisabled Value="#C8C8C8" />
 		<AutomationMouseOver Value="#4AA1FF" />
-		<MidiNoteMaxVelocity Value="#FF1200" />
+		<MidiNoteMaxVelocity Value="#ff2f74" />
 		<RetroDisplayBackground Value="#212124" />
 		<RetroDisplayBackgroundLine Value="#505050" />
 		<RetroDisplayForeground Value="#6C5FE3" />
@@ -218,7 +218,7 @@
 		<TransportOffBackground Value="#25272B" />
 		<TransportOffDisabledForeground Value="#5A5A5A" />
 		<TransportOffForeground Value="#C3C3C3" />
-		<TransportSelectionBackground Value="#C3C3C3" />
+		<TransportSelectionBackground Value="#6C5FE3" />
 		<Modulation Value="#6D7FFF" />
 		<ModulationDisabled Value="#C8C8C8" />
 		<ModulationMouseOver Value="#4AA1FF" />
